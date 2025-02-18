@@ -20,8 +20,7 @@ Soy el CTO y cofundador de [Mic-Pose](https://github.com/Mic-Pose), con una pasi
 
 ## 📫 Contáctame
 
-- **Correo Electrónico:** [tuemail@dominio.com](mailto:tuemail@dominio.com)
-- **LinkedIn:** [linkedin.com/in/tuperfil](https://www.linkedin.com/in/tuperfil)
-- **Twitter:** [@tuusuario](https://twitter.com/tuusuario)
+- **Correo Electrónico:** [aavendanoca@micandpose.com](mailto:aavendanoca@micandpose.com)
+- **LinkedIn:** [linkedin.com/in/angel-santiago-avenda%C3%B1o-ca%C3%B1on-73b78a1b7/](https://www.linkedin.com/in/angel-santiago-avenda%C3%B1o-ca%C3%B1on-73b78a1b7/)
 
 ¡Gracias por visitar mi perfil! Estoy abierto a colaboraciones y nuevas oportunidades.
