@@ -1,6 +1,6 @@
 # ¡Hola! Soy Angel👋
 
-Soy el CTO y cofundador de [Mic-Pose](https://github.com/Mic-Pose), con una pasión por el desarrollo de aplicaciones web y de escritorio utilizando Flutter. Durante el último año, me he especializado en Flutter Web/Desktop, creando soluciones innovadoras y eficientes.
+Soy el CTO y cofundador de [Mic&Pose](https://github.com/Mic-Pose), con una pasión por el desarrollo de aplicaciones web y de escritorio utilizando Flutter. Durante el último año, me he especializado en Flutter Web/Desktop, creando soluciones innovadoras y eficientes.
 
 ## 🚀 Proyectos Destacados
 
