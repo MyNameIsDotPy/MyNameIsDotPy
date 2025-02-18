@@ -9,9 +9,9 @@ Soy el CTO y cofundador de [Mic-Pose](https://github.com/Mic-Pose), con una pasi
 
 ## 🛠️ Habilidades Técnicas
 
-- **Lenguajes de Programación:** Dart, JavaScript, C++, Python, C#
+- **Lenguajes de Programación:** Dart, JavaScript, C++, Python, C#, Java, GML
 - **Frameworks y Librerías:** Flutter, React
-- **Herramientas y Plataformas:** GitHub, Firebase, Docker
+- **Herramientas y Plataformas:** GitHub, Firebase, Docker, Unity, GameMaker
 
 ## 🎯 Logros
 
