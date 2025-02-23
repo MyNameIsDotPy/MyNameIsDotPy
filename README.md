@@ -65,7 +65,3 @@ Soy el CTO y cofundador de [Mic&Pose](https://www.linkedin.com/company/micandpos
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/MyNameIsDotPy/MyNameIsDotPy/output/snake.svg" alt="Snake animation" />
-
